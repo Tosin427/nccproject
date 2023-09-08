@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "image":"assets/img/banner/png/4.png",
+        "imageposition":"",
+        "title":"THE REDEEMED CHRISTIAN CHURCH",
+        "text":"Jesus Christ the same yesterday, and today, and forever ( Hebrews 13:8 )",
+        "position":""
+    },
+    {
+        "id":2,
+        "image":"assets/img/banner/png/5copy.png",
+        "imageposition":"left",
+        "title":"NEW CONVENANT PARSIH ADELAIDE",
+        "text":"To find out more about the Christian Social Responsibility of the RCCG through its foundation and to be part of what God is doing, click the button below.",
+        "position":"offset-lg-6"
+    }
+]

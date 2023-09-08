@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "image":"assets/img/video-gallery/img1.png",
+        "title":"Church Services Online",
+        "text":"To watch the online broadcast service for Sunday's, Wednesday's and Special programs, just click on the play button and please don't forget to subscribe. God Bless You!!!",
+        "broadcastdate":"Online Broadcast",
+        "videourl":"https://www.youtube.com/watch?v=ORFNkmdTYTc"
+    },
+    {
+        "id":2,
+        "image":"assets/img/video-gallery/img2.png",
+        "title":"Pastor Enoch",
+        "text":"We are a church that belives in Jesus christ and the followers and We are a church that belives in Jesus christ. This is where you should start Lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod Lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod This is where you should start Lorem ipsum dolor sit amet consectetur",
+        "broadcastdate":"Aug 12, 2021",
+        "videourl":"https://www.youtube.com/watch?v=KH1pcNUTa6U"
+    },
+    {
+        "id":3,
+        "image":"assets/img/video-gallery/2.jpg",
+        "title":"Pastor Femi",
+        "text":"We are a church that belives in Jesus christ and the followers and We are a church that belives in Jesus christ. This is where you should start Lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod Lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod This is where you should start Lorem ipsum dolor sit amet consectetur",
+        "broadcastdate":"Aug 12, 2021",
+        "videourl":"https://www.youtube.com/watch?v=KH1pcNUTa6U"
+    },
+    {
+        "id":4,
+        "image":"assets/img/video-gallery/3.jpg",
+        "title":"Pastor Doherty",
+        "text":"We are a church that belives in Jesus christ and the followers and We are a church that belives in Jesus christ. This is where you should start Lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod Lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod This is where you should start Lorem ipsum dolor sit amet consectetur",
+        "broadcastdate":"Aug 12, 2021",
+        "videourl":"https://www.youtube.com/watch?v=KH1pcNUTa6U"
+    },
+    {
+        "id":5,
+        "image":"assets/img/video-gallery/4.jpg",
+        "title":"Pastor, Mrs Doherty",
+        "text":"We are a church that belives in Jesus christ and the followers and We are a church that belives in Jesus christ. This is where you should start Lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod Lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod This is where you should start Lorem ipsum dolor sit amet consectetur",
+        "broadcastdate":"Aug 12, 2021",
+        "videourl":"https://www.youtube.com/watch?v=KH1pcNUTa6U"
+    }
+]

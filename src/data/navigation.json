@@ -1,0 +1,127 @@
+[
+    {
+        "id": 1,
+        "linkText": "Home",
+        "child": true,
+        "submenu": [
+            {
+                "id": 1.1,
+                "link": "/",
+                "linkText": "Home"
+            }
+            
+        ]
+    },
+    {
+        "id": 2,
+        "linkText": "Pages",
+        "child": true,
+        "submenu": [
+            {
+                "id": 2.1,
+                "link": "/about",
+                "linkText": "About Us"
+            },
+           
+            
+            {
+                "id": 2.4,
+                "linkText": "Service",
+                "child": true,
+                "submenu": [
+                    
+                    {
+                        "id": 2.42,
+                        "link": "/services-v2",
+                        "linkText": "Service"
+                    }
+                ]
+            },
+            {
+                "id": 2.5,
+                "link": "/broadcast",
+                "linkText": "Broadcast"
+            },
+            {
+                "id": 2.6,
+                "link": "/contact",
+                "linkText": "Contact Us"
+            },
+            {
+                "id": 2.7,
+                "linkText": "Volunteers",
+                "child": true,
+                "submenu": [
+                    {
+                        "id": 2.71,
+                        "link": "/volunteers",
+                        "linkText": "Volunteers"
+                    },
+                    {
+                        "id": 2.72,
+                        "link": "/volunteer-details/1",
+                        "linkText": "Volunteer Details"
+                    }
+                ]
+            },
+            {
+                "id": 2.8,
+                "link": "/faqs",
+                "linkText": "FAQ's"
+            }
+            
+        ]
+    },
+    {
+        "id": 3,
+        "linkText": "Events",
+        "child": true,
+        "submenu": [
+            {
+                "id": 3.1,
+                "link": "/events",
+                "linkText": "Events"
+            },
+            {
+                "id": 3.2,
+                "link": "/event-details/1",
+                "linkText": "Event Details"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "linkText": "Sermons",
+        "child": true,
+        "submenu": [
+            {
+                "id": 4.1,
+                "link": "/sermons",
+                "linkText": "Sermon"
+            },
+            {
+                "id": 4.2,
+                "link": "/sermon-details/1",
+                "linkText": "Sermon Details"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "linkText": "Ministries",
+        "child": true,
+        "submenu": [
+            {
+                "id": 5.1,
+                "link": "/ministries",
+                "linkText": "Ministries"
+            },
+            {
+                "id": 5.2,
+                "link": "/ministry-details/1",
+                "linkText": "Ministry Details"
+            }
+        ]
+    }
+    
+]
